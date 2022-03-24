@@ -1,0 +1,3 @@
+#file for example data
+
+data <- read.csv(link, header = TRUE)
